@@ -24,4 +24,4 @@ This is what the output should look like:
 
 [internetitem/logback-elasticsearch-appender]: <https://github.com/internetitem/logback-elasticsearch-appender>
 [Elasticsearch container]: <https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html>
-[query result]: <https://github.com/fastalme/java-elastic-test/blob/master/query-result.png?raw=true>
+[query result]: <https://github.com/fastalme/java-elastic-test/blob/main/query-result.png?raw=true>
